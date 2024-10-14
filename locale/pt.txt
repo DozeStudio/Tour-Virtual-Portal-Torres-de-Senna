@@ -1,0 +1,33 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_87674360_8B50_8B7B_41BA_E211BBAF0DFF.label = SENNA_BANHEIRO CASAL_FINAL-gigapixel
+panorama_8762F295_8B53_85DA_41C8_47163B1A1E33.label = SENNA_BANHEIRO SOLTEIRO_FINAL-gigapixel
+panorama_9D65A987_8B30_87C6_41C0_7093A200E0C9.label = SENNA_CORREDOR_FINAL-gigapixel
+panorama_87381576_8B50_8F46_41DC_BF7CDC318F9C.label = SENNA_COZINHA_FINAL-gigapixel
+panorama_8706EA4E_8B51_8546_41B4_C467183BB1AC.label = SENNA_LIVING_FINAL-gigapixel
+panorama_9FC5B6E8_8B30_8D4A_41CB_5ED95B00BBB0.label = SENNA_QUARTO CASAL_FINAL-gigapixel
+panorama_876A849F_8B53_8DC6_4195_50AF2946C3B3.label = SENNA_QUARTO SOLTEIRO_FINAL-gigapixel
+panorama_876BA955_8B50_875A_41E1_47F6CBD2AFAD.label = SENNA_SERVICOS_FINAL-gigapixel
+panorama_87688DEB_8B50_BF4E_41C1_23DE3804D096.label = SENNA_VARANDA_FINAL-gigapixel
+
+## Skin
+
+### Image
+Image_633D064D_7398_EFB5_41CB_84F38AA2E51E_mobile.url = skin/Image_633D064D_7398_EFB5_41CB_84F38AA2E51E_mobile_pt.png
+Image_633D064D_7398_EFB5_41CB_84F38AA2E51E.url = skin/Image_633D064D_7398_EFB5_41CB_84F38AA2E51E_pt.png
+
+### Tooltip
+MainViewer.toolTip =  \
+
+MainViewer_mobile.toolTip =  \
+
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1

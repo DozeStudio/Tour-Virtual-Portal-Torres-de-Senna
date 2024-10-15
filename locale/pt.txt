@@ -30,4 +30,4 @@ MainViewer_mobile.toolTip =  \
 ### Description
 
 ### Title
-tour.name = Untitled 1
+tour.name = Tour Portal Torres de Senna
